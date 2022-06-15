@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/b4yg6jfhqjhsnwyk?svg=true)](https://ci.appveyor.com/project/shamork/wxsqlite3)
 # wxSQLite3 - a lightweight wrapper for SQLite
 
 **wxSQLite3** is a C++ wrapper around the public domain SQLite 3.x database
